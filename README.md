@@ -69,7 +69,7 @@ Para comprobar el comportamiento del modelo frente a una temporada completa no v
 ## Estructura del Repositorio
 
 ```text
-├── data/
+├── data
 ├── notebooks/
 │   └──codigo.ipynb  <- Cuaderno con el flujo completo de análisis
 ├── docs/
